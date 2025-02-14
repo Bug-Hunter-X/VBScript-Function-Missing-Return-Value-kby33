@@ -1,0 +1,1 @@
+Function doesn't return a value in all code paths.
