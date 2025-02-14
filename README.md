@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: a function failing to return a value in all possible execution paths. The `bug.vbs` file contains the erroneous code, while `bugSolution.vbs` provides the corrected version.
